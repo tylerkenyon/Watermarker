@@ -56,7 +56,7 @@ Then follow the prompts to:
 
 ### Example 1: Mark a document as confidential
 ```bash
-watermark --path contract.pdf --text "CONFIDENTIAL"
+watermark --path contract.jpg --text "CONFIDENTIAL"
 ```
 
 ### Example 2: Add copyright to a photo
